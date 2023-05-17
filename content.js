@@ -1,4 +1,4 @@
-console.log("[mcitomi] Kréta átlag számító betöltve. v.23.04.04");
+console.log("[mcitomi] Kréta átlag számító betöltve. v.23.05.18");
 
 const display = document.getElementsByClassName("k-footer-template");
 

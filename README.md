@@ -1,5 +1,7 @@
-# e-kreta.hu összesített átlag számoló extension.
+# e-kreta.hu: Kréta összesített átlag számító extension.
 <img src="https://i.imgur.com/0tNjVzz.png" style="width: 800px;">
+<p>Last update: 2023.05.18.<p>
+
 <h3>Install:</h3>
 Click "Code" and Download zip.<br>
 Extract the zip file.<br>
