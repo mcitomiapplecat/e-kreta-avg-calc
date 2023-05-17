@@ -1,7 +1,6 @@
 console.log("[mcitomi] Kréta átlag számító betöltve. v.23.04.04");
 
 const display = document.getElementsByClassName("k-footer-template");
-let avg = 0;
 
 if(document.URL.includes("TanuloErtekeles/Osztalyzatok")){
     
